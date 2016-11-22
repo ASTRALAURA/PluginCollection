@@ -33,6 +33,7 @@
 		{
 			"name": "Permissions Ex",
 			"desc": "Create permission systems.",
+			"jarName":"PermissionsEx.jar",
 
 			"configName": "PermissionsEx"
 		},
