@@ -328,6 +328,12 @@
 			"jarName": "Multiverse-Core.jar",
 			"configName": "Multiverse-Core",
 			"requiredRank": "4"
+		},
+		{
+		 "name":"MoreTNT",
+		"desc": "Adds More TNT to your world",	
+		"jarName":"MoreTNT.jar",
+		"configName":"MoreTNT"	
 		}
 			
 	]
